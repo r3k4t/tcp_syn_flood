@@ -10,7 +10,7 @@
 
 ![tcp_syn_flooding](https://user-images.githubusercontent.com/69615463/98195764-85555300-1f48-11eb-8aed-a4b7170c7e2e.png)
 
-### What is a synflood ? ###
+### What is a TCP Synflood ? ###
 
 TCP SYN flood is a type of Distributed Denial of Service (DDoS) attack that exploits part of the normal TCP three-way handshake to consume resources on the targeted server and render it unresponsive.
 
