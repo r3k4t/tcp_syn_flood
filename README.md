@@ -28,7 +28,7 @@ Essentially, with SYN flood DDoS, the offender sends TCP connection requests fas
 ### Setup ###
 
 <ul>
-<li> pip install -r requirements.txt</li>
+<li> pip3 install -r requirements.txt</li>
 </ul>
 
 ### Terminal Command ###
